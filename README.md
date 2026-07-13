@@ -88,7 +88,7 @@ For real-world encryption needs, use a modern, vetted algorithm — e.g. AES-GCM
 
 ## License
 
-Add your preferred license here (e.g., MIT).
+--
 
 ## Contributing
 
